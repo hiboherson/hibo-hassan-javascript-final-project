@@ -1,0 +1,176 @@
+   {
+  "supportResources": [
+    {
+      "name": "National Domestic Violence Hotline",
+      "phone": "1-800-799-SAFE (7233)",
+      "website": "https://www.thehotline.org/"
+    },
+    {
+      "name": "RAINN (Rape, Abuse & Incest National Network)",
+      "phone": "1-800-656-HOPE (4673)",
+      "website": "https://www.rainn.org/"
+    },
+    {
+      "name": "GVRC Kenya (Gender Violence Recovery Centre)",
+      "phone": "+254735467875",
+      "website": "https://www.gvrc.or.ke/"
+    }
+  ],
+   "banners": [
+        {
+            "section": "banner",
+            "title": "Gender-based violence in crisis",
+            "content": "GBV is an umbrella term for harmful acts of abuse perpetrated against a person’s will and rooted in a system of unequal power between women and men.",
+            "image": "hero-img.png",
+            "url" : "https://youtu.be/Olt7TzgntA8"
+
+        }
+    ],
+   "abouts": [
+        {
+            "section": "about",
+            "title": "Gender-based violence in crisis",
+            "content": "GBV is an umbrella term for harmful acts of abuse perpetrated against a person’s will and rooted in a system of unequal power between women and men.",
+            "author": "zamzam hassan",
+            "number": "+254729564873",
+            "image": "about.jpg",
+            "causes" : ["Physical Violence: This includes any form of physical harm or force inflicted upon someone based on their gender. It can range from slapping and hitting to more severe forms like beating, kicking, or using weapons to cause harm.",
+             "Sexual Violence: This encompasses any form of non-consensual sexual activity or behavior. It includes rape, sexual assault, harassment, and coercion. Sexual violence can occur within intimate relationships, in the workplace, in public spaces, or during armed conflict. ",
+             "Emotional/Psychological Violence: This involves actions or behaviors that cause emotional or psychological harm. It includes threats, intimidation, manipulation, verbal abuse, and controlling behaviors such as isolating someone from friends and family.",
+             "Cyber Violence: With the rise of technology, GBV has extended into cyberspace. Cyber violence includes online harassment, cyberstalking, non-consensual sharing of intimate images (revenge porn), and other forms of digital abuse targeted at individuals because of their gender."]
+        }
+    ],
+    "precautions": [
+        {
+            "section": "precaution",
+            "title": "Gender-based violence in crisis",
+            "content": "Gender-based violence (GBV) can take various forms, and it's important to recognize each one to address and prevent it effectively,take a step and standout to report any incident.",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "image": "assets/img/featur.png"
+        }      
+    ],
+     "learning": [
+        {
+            "section": "1",
+            "title": "understanding GBV",
+            "content": "Forcibly displaced and stateless people face higher risks of gender-based violence (GBV).",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "image": "assets/img/featur.png"
+        },
+        {
+            "section": "2",
+            "title": "Gender-based violence in detail",
+            "content": "is a serious violation of human rights and a life-threatening health and protection issue.",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "image": "assets/img/featur.png"
+        },
+        {
+            "section": "3",
+            "title": "Gender-based violence in crisis",
+            "content": "Prevention efforts often focus on challenging harmful gender norms and promoting gender equality and fostering community engagement and awareness-raising campaigns.",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "image": "assets/img/featur.png"
+        }     
+    ], 
+     "contacts": [
+        {
+            "section": "1",
+            "title": "Address",
+            "content": "Township, Garissa, Kenya",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "icon": "icon bi bi-geo-alt flex-shrink-0"
+        },
+        {
+            "section": "2",
+            "title": "Call us",
+            "content": "+254729677606",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "icon": "icon bi bi-telephone flex-shrink-0"
+        },
+        {
+            "section": "3",
+            "title": "Email us",
+            "content": "Hibohassan@gmail.com.",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "icon": "icon bi bi-envelope flex-shrink-0"
+        },
+        {
+            "section": "3",
+            "title": "Opening hours",
+            "content": "Mon-Sat; Sunday: Closed",
+            "author": "zamzam hassan",
+            "date": "2024-06-01",
+            "icon": "icon bi bi-clock flex-shrink-0"
+        }     
+    ],
+     "images": [
+        {
+            "id": "1",
+            "name": "gal1.jpg"
+          
+        },
+        {
+            "id": "2",
+            "name": "gal2.jpg"
+        },
+        {
+            "id": "3",
+            "name": "gal3.jpg"
+        },
+        {
+            "id": "3",
+            "name": "gal4.jpg"
+        },
+        {
+            "id": "3",
+            "name": "gal5.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal6.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal7.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal8.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal9.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal10.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal11.jpg"
+        } ,
+        {
+            "id": "3",
+            "name": "gal12.jpg"
+        }  ,
+        {
+            "id": "3",
+            "name": "gal13.jpg"
+        }  ,
+        {
+            "id": "3",
+            "name": "gal14.jpg"
+        }  ,
+        {
+            "id": "3",
+            "name": "gal15.jpg"
+        }     
+    ]
+    }
